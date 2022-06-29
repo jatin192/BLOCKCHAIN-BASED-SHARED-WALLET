@@ -8,7 +8,7 @@ Employers give employees an allowance for their travel expenses.
 
 Businesses give contractors an allowance to spend a certain budget.
 
-# Development-Goal¶
+# Development-Goal
 Have an on-chain wallet smart contract.
 
 This wallet contract can store funds and let users withdraw again.
